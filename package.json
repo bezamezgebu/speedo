@@ -1,0 +1,21 @@
+{
+  "name": "quote",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Beza Tesema",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cross-fetch": "^3.0.4",
+    "express": "^4.17.1",
+    "file-system": "^2.2.2",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
